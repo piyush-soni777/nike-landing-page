@@ -33,3 +33,18 @@ It features stylish Nike shoes with floating effects, smooth transitions, and an
 
 ---
 
+
+---
+
+## 👨‍💻 Author
+**Piyush Soni**  
+💻 Frontend Developer  
+
+---
+
+## 📌 About Project
+This project was created to practice modern frontend development concepts including animations, transitions, responsive layouts, and interactive product showcase design.
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
