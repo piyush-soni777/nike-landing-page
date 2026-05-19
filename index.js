@@ -92,7 +92,7 @@ Array.from(moreImages).forEach((el) => {
 		modalContent.parentNode.replaceChild(temp, modalContent)
 	}
 })
-
+// piyush-soni777
 // ========== SMOOTH SCROLL ENHANCEMENT =========
 document.documentElement.style.scrollBehavior = 'smooth';
 
