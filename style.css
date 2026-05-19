@@ -200,7 +200,7 @@ body, html {
 	border: 2px solid var(--silver);
 	background-color: var(--silver);
 }
-
+/* piyushSoni */
 .color-wrapper > div.active {
 	border: 2px solid var(--black);
 }
