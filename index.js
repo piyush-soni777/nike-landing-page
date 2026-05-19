@@ -65,7 +65,7 @@ Array.from(slideControlItems).forEach((el, index) => {
 let modal = document.getElementById('modal')
 
 let closeBtn = document.getElementById('modal-close')
-
+// piyush
 closeBtn.onclick = () => {
 	modal.style.display = 'none'
 }
