@@ -1,50 +1,76 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Piyush%20Soni&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h1 align="center">✨ Welcome to My GitHub Universe ✨</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&lines=✨+Welcome+to+My+3D+Universe+✨;Frontend+Dev+%7C+CS+Student+%7C+Creator" alt="Typing Animation"/>
+</h1>
+
+<div align="center" style="margin-bottom: 0;">
+  <img src="profile.jpg" width="180" style="border-radius: 50%; box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37); border: 4px solid #1d4ed8; background: linear-gradient(135deg,#1d4ed8 0%,#06b6d4 100%); animation: floaty 3s ease-in-out infinite alternate;" alt="Piyush Soni profile" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&lines=Passionate+CS+student+and+frontend+developer;Building+modern+websites,+animated+UI,+and+creative+projects;Always+learning,+experimenting,+and+bringing+ideas+to+life" />
+  <img src="https://github.com/piyush-soni777/piyush-soni777/assets/74038190/3d-animated-banner.gif" width="650" alt="3D animated dev banner" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,github,git,vscode&perline=8&theme=dark" alt="Skill Icons"/>
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b9c6f2-3f4e-4a4c-8f3d-11af0b3d-4d8b3a9c.jpg" width="650" alt="animated dev banner" />
+  <img src="https://github.com/piyush-soni777/piyush-soni777/assets/74038190/3d-cube.gif" width="120" alt="3D Cube Animation"/>
 </div>
 
+<style>
+@keyframes floaty {
+  0% { transform: translateY(0px); }
+  100% { transform: translateY(-20px); }
+}
+</style>
+
 ---
 
-## 👋 About Me
 
-Hi! I’m **Piyush Soni**, a passionate **Computer Science Engineering student** and **frontend developer** from India 🇮🇳. I enjoy building **modern websites**, **animated user interfaces**, **games**, and **Python-based projects**. My goal is to combine design, creativity, and clean code to build experiences that people love to use.
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> About Me
+</h2>
 
-### 💡 What I love doing
-- 🎨 Designing **beautiful, responsive UI**
-- ⚡ Building **fast and interactive web experiences**
-- 🐍 Creating **Python-based projects** and small tools
-- 🛠️ Solving problems with **creative coding**
+
+<p align="center">
+  <b>Hi! I’m <span style="color:#1d4ed8;">Piyush Soni</span> — a passionate <span style="color:#06b6d4;">Computer Science Engineering student</span> and <span style="color:#1d4ed8;">frontend developer</span> from India 🇮🇳.</b><br>
+  I love building <b>modern websites</b>, <b>animated UI</b>, <b>games</b>, and <b>Python-based projects</b>.<br>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="40"> Always learning, creating, and innovating!
+</p>
+
+
+<details>
+<summary>💡 <b>What I love doing</b></summary>
+
+- 🎨 Designing <b>beautiful, responsive UI</b>
+- ⚡ Building <b>fast and interactive web experiences</b>
+- 🐍 Creating <b>Python-based projects</b> and small tools
+- 🛠️ Solving problems with <b>creative coding</b>
 - 📚 Constantly learning and upgrading my skills
 
+</details>
+
 ---
 
-## 🛠️ Tech Stack
 
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> Tech Stack
+</h2>
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Core Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,github,git,vscode&perline=8&theme=dark" alt="Skill Icons"/>
+</p>
+
+<details>
+<summary>🧰 <b>Core Skills</b></summary>
+
 - Responsive Web Design  
 - UI/UX Design  
 - Frontend Development  
@@ -53,9 +79,14 @@ Hi! I’m **Piyush Soni**, a passionate **Computer Science Engineering student**
 - Creative Web Development  
 - SQL / MySQL  
 
+</details>
+
 ---
 
-## 📊 GitHub Analytics
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> GitHub Analytics
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piyush-soni777&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
@@ -68,7 +99,10 @@ Hi! I’m **Piyush Soni**, a passionate **Computer Science Engineering student**
 
 ---
 
-## 🚀 Featured Projects
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30"> Featured Projects
+</h2>
 
 ### 1. 🎨 Modern Web Projects
 Creative frontend projects focused on modern layouts, responsiveness, and smooth UI interactions.
@@ -83,7 +117,10 @@ Python-based projects that focus on logic, automation, and practical problem sol
 
 ---
 
-## 📫 Connect With Me
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30"> Connect With Me
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush-soni777" target="_blank">
@@ -102,12 +139,16 @@ Python-based projects that focus on logic, automation, and practical problem sol
 
 ---
 
-## ✨ Quick Motivation
 
-```text
-"Code is my canvas, and every new project is a fresh way to create something meaningful." 
-```
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Quick Motivation
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1d4ed8&center=true&vCenter=true&width=600&lines=Code+is+my+canvas,+and+every+project+is+a+new+design." />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0f766e&height=80&section=footer"/>
 </p>
+
