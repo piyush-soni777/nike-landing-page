@@ -7,6 +7,7 @@ It features stylish Nike shoes with floating effects, smooth transitions, and an
 
 ## 🚀 Live Demo
 🔗 https://ps-nike-landing.netlify.app/
+<img width="1366" height="768" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/ecb5c92f-d031-463f-b4d6-ba57c5903c5f" />
 
 ---      
 
