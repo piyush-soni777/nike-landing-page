@@ -8,7 +8,7 @@ It features stylish Nike shoes with floating effects, smooth transitions, and an
 ## 🚀 Live Demo
 🔗 https://ps-nike-landing.netlify.app/
 
----
+---    
 
 ## ✨ Features
 - 👟 4 different shoe color variants  
