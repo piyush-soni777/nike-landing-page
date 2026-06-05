@@ -3,7 +3,7 @@
 Nike Shoes Landing Page is a modern and animated product landing page built using HTML, CSS, and JavaScript.  
 It features stylish Nike shoes with floating effects, smooth transitions, and an interactive user interface.
 
----
+---   
 
 ## 🚀 Live Demo
 🔗 https://ps-nike-landing.netlify.app/
