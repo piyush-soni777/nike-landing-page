@@ -32,7 +32,7 @@ It features stylish Nike shoes with floating effects, smooth transitions, and an
 - Smooth animations create an engaging experience  
 - Floating effects enhance the modern UI feel  
 
----
+---   
 
 
 ---
